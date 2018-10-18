@@ -2,11 +2,11 @@
 
 ####Input your weight in kg
 
-weight <- 78
+weight <- 50
 
 ###Input your height in m
 
-#height <- 1.7
+height <- 1.7
 
 ####Calculate Body Mass Index (BMI)
 
